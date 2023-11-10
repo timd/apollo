@@ -38,6 +38,19 @@ body, html {
     margin: 0.5rem 0;
   }
 
+  .credits {
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 0.65rem;
+    margin: 0.5rem 0;
+    text-align: left;
+}
+
+a, :visited, :hover, :active {
+    color: rgb(174, 170, 170);
+    text-decoration: none; /* This removes the underline from links */
+  }
+
   .astronauts {
     margin-top: 100px
   }
